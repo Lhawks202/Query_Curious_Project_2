@@ -1,0 +1,36 @@
+ ====== Algorithms ======
+
+Tune: Frank Palmer\\
+Four-couple longways, 1s and 2s improper\\
+Tune: Algorithms
+<code>
+A1  1-4    End couples long cast to middle place and face original end 
+           (1s facing up, 4s facing down) while middle couples meet and lead out to end places. 
+    5-6    Active couples (original ends, now in middle place) wheel around halfway to face 
+           middle of set (men moving backwards). 
+    7-8    Active couples (in the middle) circle four to the left halfway. 
+           Order is now: 2-4-1-3, 1s and 2s improper, 3s and 4s proper. 
+A2   1-8   Repeat from new positions. Order is now: 4-3-2-1, top too couples proper, 
+           bottom two couples improper. 
+B1   1-4   Men go right shoulder around partner. (This is not a gypsy; women should stand still.) 
+     5-8   End men, followed by neighbor, skip clockwise halfway around women's line to end in 
+           original home place but crossed over. Dancers are with their shadow at this point, 
+           not their partner. 
+     9-10  In halves of the set, star right halfway. 
+     11-12 Middle couples star left halfway. Men are in their progressed places but women are not. 
+B2   1-4   Women go left shoulder around opposite (men should stand still). 
+     5-8   Middle w omen, followed by neighbor, skip counterclockwise halfway around men' s 
+           line to end opposite partner in progressed place. (Middle w omen start by dancing 
+           behind their partner and around the line.) 
+     9-12  Partners left-hand turn once around.
+     Progression: 2-4-1-3.</code>
+
+
+Teaching hps: The progression is tricky because everyone arrives independently. Reassure dancers 
+that this is not a mixer; partners will be reunited soon. The stars happen quickly and women must be 
+prepared for them.
+
+Nancy De Vore commissioned this dance as a surprise for her husband Al Blank 
+('a mathematician), on the occasion of his 80th birthday. 
+
+Video: https://www.youtube.com/watch?v=SCouCtqP8kk second dance

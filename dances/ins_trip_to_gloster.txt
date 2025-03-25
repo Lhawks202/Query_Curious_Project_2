@@ -1,0 +1,19 @@
+====== A TRIP TO GLOSTER ======
+                     
+
+(N. BROADBRIDGE - 1995)\\
+Longways, duple minor    4/4       (AABB)\\
+Tune: A TRIP TO GLOSTER
+<code>
+A1  1-2  1st Crn: Cast L & move CCW outside to crn's place (8 steps)
+    3-4  1st Crn: back to back RSh & fall back to R (prntr's place) while 2nd Crn cast R to nghbr's place
+A2  1-2  2nd Crn (at 1st Crn's place): Same as A1 (progress & improper)
+B   1-2  1st Cpl: lead up & turn inwards (and downwards) to face our to the wall while 
+         2nd Cpl cast dwn & turn inwards (and upwards) to wall; 
+         All with ngbr: lead to the wall (4st)  
+    3-4  All: turn inwards, lead in, cross prntr R Sh & turn R (home)
+    5    All: Crcl 4, ½ way round
+    6    1st M (with H) lead prnt up (crossing in front) into her original place 
+         as he to the same while 2nd Cpl cast down in 2nd place
+    7-8  1st Cpl: come frwrd & cast dwn while 2nd Cpl: turn 2H. ½ way & lead up</code>
+

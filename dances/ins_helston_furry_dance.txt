@@ -1,0 +1,36 @@
+====== HELSTON FURRY DANCE ======
+ 
+Origin: Cornwall, England\\
+Music: Helston Furry Dance\\
+Record: dancecraft 123324\\
+Tune: HELSTON FURRY DANCE\\
+Steps: The 4-3 Morris Step. Run forward with 3 small steps and hop
+on count 4. The hop should be more upward than forward.\\
+Formation: Couples, following one couple behind the next.\\
+Tune: HELSTON FURRY DANCE
+<code>
+Measures Counts Pattern
+Part 1:
+1   1-4   Man leads his partner (that is, partners
+          side-by-side with W's R in M's R hand.) [vid
+          move forward one Morris 4-3 step. Begin R ft.
+
+2-7 5-32 Move forward with 7 more Morris 4-3 steps.
+         With each step the lead foot will change.
+         
+Part 2:
+1-4 1-16 Partners face each other with R hands still
+         joined and turn CW around each other. Use 4
+         Morris 4-3 steps.
+5-8 17-32 Repeat measures 1-4, Part 2, with the L hand,
+          and turning CCW.
+Dance begins again.</code>
+History: https://tunearch.org/wiki/Annotation:Helston_Furry_Dance\\
+Note: This is the way the dance is performed in the village of
+Helston on the 2nd Sunday in May. The dancers will often be
+seen in their very best gowns and the men in their frock
+coats or top hats and morning suits.\\
+
+In other villages in Cornwall, Part 1 is danced as notated
+above, but during part 2, the dancers will wheel in groups
+of 2 couples.

@@ -1,0 +1,32 @@
+====== The Fine Lady of Homewood ======
+  
+
+Form: 4 couple set, longways\\
+Dance by Gary Roodman (1996)\\
+Music: "A Fig for a Kiss" (16 bars of 9/8 meter)\\
+Recording: {{ ::music:fine_lady_of_homewood-_075-oldfriend-06.mp3.zip |}}
+<code>
+A1	1-3	Top two couples Rh across once around,
+		WHILE bottom two couples do the same;
+	4	All turn single L.
+
+A2	1-3	Top two couples Lh across once around,
+		WHILE bottom two couples do the same;
+	4	All turn single to the R.
+
+B1	1-2	End couples cross by R sh & cast toward the centre,
+		WHILE middle couples lead out to the ends
+		(This is brisk! - middles try moving out & turning R,
+		all in one piece);
+	3-4	Top two couples - & bottom two couples -
+		circle L half-way (middles now improper).
+
+B2	1-2	Top two couples - & bottom two couples -
+		do two changes of R & L
+		(R to ptnr, L to nbr);
+	3-4	Couples who are now at the ends turn by the Rh once around
+		WHILE couples in the middle do 2 more changes of R & L
+		(begin with R to ptnr).
+
+Repeat 3 more times to end in original places.
+</code>

@@ -1,0 +1,25 @@
+====== The Indian Queen ======
+As in "The Playford Ball"  (Playford, 11th ed. 1701)\\
+Recording: {{ ::music:indian_queen-068-bn12pb09.mp3.zip |}}\\
+{{ ::music:indian_queen--016.mp3.zip |}}\\
+{{ ::music:indian_queen-priprec04.mp3.zip |}}\\
+ Duple Minor Longways
+<code>   
+ A1  1-4  1st corners set forward to each other, 
+          and turn single back to place. 
+     5-8  The same turn two-hands once around. 
+ A2  1-8  2nd corners repeat A1. 
+ B1  1-8  All right-hands across and left-hands back. 
+ B2  1-4  Partners back-to-back. 
+     5-8  Circular hey, three changes, beginning with partner.</code>
+====== The Indian Queen ======
+Longways
+ <code>     
+   1st corners set, turn single; and turn each other.
+   2nd corners the same.
+   R hands across; L hands across.
+   Partners back to back; circular hey 3 changes, partners facing.</code>
+
+
+
+See an [[http://www.dancekaleidoscope.org.au/dance.html#IndianQueen|animation of this dance]].

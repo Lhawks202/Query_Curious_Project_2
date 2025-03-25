@@ -1,0 +1,33 @@
+====== Noisette ======
+
+(2004, Philippe Callens)\\
+duple minor, longways, proper, triple time\\
+Recording: {{ ::music:noisette-soi.mp3.zip |}}
+
+<code>
+A1  1-4	Women meet and lead between the men, 
+	separate and cast back to place
+    5-6	1st woman & 2nd man (2nd corners) cross R shoulder and 
+	turn R to face back in
+    7-8	All four cast R to move 1 place clockwise around the set
+		(all improper)
+A2  1-4	Men meet and lead between the women, 
+         separate and cast back to place
+    5-6	1st man and 2nd women (now in 2nd corner) cross R
+    	shoulder and turn R to face back in
+    7-8 All 4 cast R 1 place clockwise to home positions
+	1s face down
+B1  1-4	1s dance R sh (clockwise) around neighbor 1 1/4 X:
+        1st man starts down ctr, end in center facing 2nd man as
+	1st wo starts down outside, end facing in to 2nd wo who
+   	turns to face her.  All in a line of 4.
+    5-8 Half a straight hey, neighbors start passing R sh
+	(Middles end in other middle; ends at other end)
+B2  1-2	2s dance R shoulder 3/4 around neighbor, end above them;
+		in bar 2: 1s turn about; all face clockwise
+    3-4	Single file clockways, halfway round, to home
+    5-6	Partners give RH, balance F&B
+    7-8	1s cast; 2s lead up
+</code>
+
+Video: https://www.youtube.com/watch?v=FbVSfvaF5gI

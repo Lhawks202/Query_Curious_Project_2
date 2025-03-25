@@ -1,0 +1,34 @@
+====== Scotch Cap ======
+Longways for six\\
+Dancing Master of 1651. \\
+Interpreted by Cecil Sharp in 1916. \\
+It is a USA dance, a proper 3 couple \\
+Recording: {{ ::music:scotch_cap-_066-bn9sr05.mp3.zip |}}\\
+{{ ::music:scotch_cap--011.mp3.zip |}}\\
+{{ ::music:scotch_cap_085-ear-18.mp3.zip |}}\\
+{{ ::music:scotch_cap--014.mp3.zip |}}
+   
+<code>
+   First Figure
+   A     8  Up a double and back twice
+   B1    4  First and second ladies facing second and third men, balance
+            back and change places diagonally
+         4  First man change with third lady
+   B2    8  Repeat, ending in original places
+   Second Figure
+   A     8  Partners side twice
+   B1    4  Take hands along the sides, and lines fall back a double and forward
+         4  First and third men, first and third ladies, second couple:
+            arm right and fall back to place
+   B2    4  Lines fall back as before
+         4  Turn partner both hands
+   Third Figure
+   A     8  Partners arm right and left
+   B1    2  Men four slips up, ladies four slips down, ending in a line in the
+            center (third man facing first lady).
+         6  Third man and first lady being progressive hey, handing back to 
+            place
+   B2    8  Do the same with men slipping down and ladies slipping up.</code>
+
+Video: https://www.youtube.com/watch?v=2B-CnL4KAMU\\
+https://www.youtube.com/watch?v=M-zq_3z0CDE

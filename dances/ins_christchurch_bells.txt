@@ -1,0 +1,17 @@
+====== Christchurch Bells ======
+As in "The Playford Ball"\\
+Published in Playford's Dancing Master in 1679.\\  
+It was interpreted by Cecil Sharp in 1916.\\ 
+It is a proper duple minor dance.    
+<code>
+   A  1-8 1st man turn 2nd woman right-hand (1-4), 
+          then turn partner left-hand (5-8). 
+   B  1-8 2nd man turn 1st woman left-hand (1-4), 
+          then turn partner right-hand (5-8). 
+   C  1-4 Circle four-hands once around, slipping. 
+      5-6 Clap hands: own, partner's right, own, partner's left 
+      7-8 1st couple cast off one place, 2nd couple lead up center.
+</code>
+
+Recording: {{ ::music:christchurchristchurch_bellsch_bells._fits_--016.mp3.zip |}}\\
+Video: https://www.youtube.com/watch?v=l8yH8xJsGjc

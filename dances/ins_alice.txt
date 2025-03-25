@@ -1,0 +1,18 @@
+====== ALICE   ======
+                                  
+
+(PHILIPPE CALLENS - 2002)
+ 
+Longways, Duple Minor                               3/4       (AAB)
+ 
+<code>
+   A1  1-2       1st Corners: set in place
+       3-4       1st Corners: RH turn halfway
+   A2  1-4       2nd Corners the same (progressed & improper)   
+   B1  1-2       Facing prtn: all fall back step-close, step-close (strart R)
+       3-4       Prtn cross by R-Sh & loop right into…(progressed & proper)
+       5-8       All: in a single file circle L once round
+       9-12     Prtnr: 2-H turn once round</code>
+
+Recording: {{ ::music:alice-069-bn13mbt-14.mp3.zip |}}\\
+{{ ::music:alice-054-engech-12.mp3.zip |}}

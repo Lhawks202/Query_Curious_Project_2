@@ -1,0 +1,41 @@
+====== Mr Chopin's Waltz ======
+Gary Roodnan 2009 \\
+Duple Minor improper\\
+Recording: {{ ::music:mr_chopins_waltz-071_bn15ff11.mp3.zip |}}
+<code>
+A1&2  **Set, Petronella turn, circle; repeat**
+
+A1   1-4  With hands joined in circle of four, 
+          all set right and left, 
+          then let go and move to the right  one place around the 
+          minor set while turning single to the right (“Petronella Turn”).
+     5-8 All circle left three-quarters, 
+         ending diagonally across from original place.
+A2   1-8 Repeat from new position: set, move right with Petronella turn, 
+         then circle three-quarters to end in original place, 
+         facing original neighbor.
+
+B1 Weave [Two changes of straight hey] & Serpentine; repeat
+
+B1 1-2 Weave: Neighbors pass right, then with new neighbor pass left 
+       (similar to two changes of straight hey along the line).
+   3-4 Serpentine: Men cast back halfway around this minor set and 
+       women follow partner to trade places with these new neighbors 
+       and face original neighbors. 
+       End in original minor set, diagonally across or halfway 
+       around from original place.
+   5-8 Repeat from new position: weave past the minor set, 
+       then cast or follow to original place.
+       All in original place, facing original neighbor
+
+B2 Star on one side, then the other and pass through
+
+B2 1-4 Right-hand star once around, 
+       opening at end to face neighbors on the other side.
+   5-8 With other neighbors star left once around (7 bars), 
+       then open out to face original neighbors at home and 
+       pass original neighbor by right shoulder to progress 
+       to new minor set
+</code>
+Video: https://www.youtube.com/watch?v=N_NjcHhKHyU\\
+Tune "Waltz in A Minor" by F. Chopin

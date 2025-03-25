@@ -1,0 +1,36 @@
+====== WINTER SOLSTICE ======
+(5 couples, square + 1 in centre)\\
+Recording: (Early One Morning) -- {{ ::music:winter_solstice--040.mp3.zip |}}\\
+(A different tune ??) -- {{ ::music:winter_solstice-15.mp3.zip |}}\\
+Video: https://www.youtube.com/watch?v=gthTXdQR3Xo
+
+<code>
+           top
+           o x
+        x       o
+           x o        C5 in centre
+        o       x
+           x o
+</code>
+
+
+<code>
+   A1   Top, bottom and middles (in centre) do mirror hays,
+        with middle dancers going outwards (M left, W Rt)
+        WHILE sides side over and back with partner (Cecil Sharp?)
+        set and turn single
+        8 bars
+   A2   Middle couple do hay for 3 on sides with side couples
+        M5 goes to Lt and W5 to Rt, passing up and through to
+        begin (?? Lt Shoulder in instruction, but this is only
+        for W5. M5 must ?? give Rt shoulder to M2)
+        8 bars
+   B1   4 outer couples do grand square (sides separate, heads in)
+        While: middles face and separate, move downs, outside, in to
+        face, then up to centre
+   B2 (Progression)  Middle couple promenade hold, change Lt shoulder
+        with C1 (heads), C1 now in middle and pass cpl on Lt (C4),
+        C4 to middle and change with cpl (C3) on Lt, and so on so
+        C3 changes with C2 who become the middles.
+</code>
+

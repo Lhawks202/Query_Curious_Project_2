@@ -1,0 +1,18 @@
+====== Muriel's Measure ======
+C. Hume 1995, Dances with a difference #4\\
+Recording on Boston Centre #8: {{ ::music:muriels_measure-065_bn8bc-07.mp3.zip |}}
+
+Duple minor
+
+<code>
+ A1 1-4 1Cpl set, Rt-h turn 1/2 way
+    5-8 Men cross, W cross
+ A2 1-4 All B to B with Ptn.
+    5-8 4-h circle 3/4 way round & open to line of 4, facing 
+        up [[2Cpl|on Lt,1C on Rt.end]]
+ B1 1-8 Line up D & back. Face Ptn. for hey 1/2 way, ending 
+        facing Ptn.
+ B2 1-4 All turn Ptn. Rt-h 3/4 way, finishing beside Ptn. 
+        1Cpl. on M's side.
+    5-8 All Lt-h star 11/4 to progressed place.</code>
+video https://www.youtube.com/watch?v=xrpx-GgjdVk

@@ -1,0 +1,61 @@
+====== Bellamira ======
+
+1699
+duple minor, longways \\
+**AABB version** \\
+Recording: {{ ::music:bellamira-aabb--014.mp3.zip |}}
+<code>
+ 
+ A1   4   1's lead down center, turn & face up
+      4   1's lead back to place; as they approach their place, 
+          they wheel around (man moving backwards) into place, 
+          ending improper, facing down
+ A2   4   Side right with neighbor (Sharp)
+      4   2 hand turn with neighbor
+ B1   4   Change places with partners, falling back on last 3 steps
+      4   Man 2 cast up, followed by his partner, and move in above 1's while
+          1's lead down; ending all proper & progressed
+ B2   2   1st corners (original) change
+      2   2nd corners change
+      2   All clap and circle L 1/2
+      2   All turn single
+</code>
+
+==== AAB version ====
+Walsh 1731 \\
+Duglas and Helen Kennedy 1929 \\
+
+<code>
+   
+ A1   4   1's lead down center, turn & face up
+      4   1's lead back to place; as they approach their place, 
+          they wheel around (man moving backwards) into place, 
+          ending improper, facing down
+ A2   4   Side right with neighbor (Sharp)
+      4   2 hand turn with neighbor
+ B    2   1's cross and cast.  
+      2   1st corners (original) change (Left diagonal)
+      2   2nd corners change
+      2   All clap and circle L 1/2
+</code>
+Video: https://www.youtube.com/watch?v=ZygWyM1Nepg  \\
+Recording:   {{ ::music:bellamira--044.mp3.zip |}}\\
+  
+Notes: Bare Necessities is AAB, Breakfast at Fezziwhigs has AABB.
+
+Bellamira is the title of a play by Sir Charles Sedley (1639-1701) produced
+in 1687 which was at best a succé de scandale for its coarseness and obscenity.
+Although its lot was based on that of the Roman poet Terence’s Eunuchus, it
+was widely supposed that the title character, a merchant's daughter turned
+courtesan, was based on Barbara Palmer, Ist Duchess of Cleveland (1640-
+1709). Perhaps the most controversial of Charles I's mistresses because of
+her unrepentant Catholicism, she was a tall voluptuous, violet-eyed beauty:
+She bore the King five children, and when she lost her place to the younger
+Louise de Kérouaille, the King dealt generously with her and their children.
+She took other lovers as well, including the rope-dancer Jacob Hall (of “Jacob
+fall's Jig?) and the young John Churchill later to rise to fame as England's
+greatest general, whose career and fortunes gave rise to many more dances.\\
+Original direction in A2 to “side with foot and elbow” is a famous conundrum
+no interpreter has yet quite resolved, and “The Balk,” identical word for
+word with “Bellamira,” does nothing to unpick the puzzle. 
+

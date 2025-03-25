@@ -1,0 +1,33 @@
+====== Gray's Inn Mask ======
+
+Longways for 4 couples\\
+English Dancing Master in 1651.
+
+<code>
+  Part 1
+Al 1-8 Up a double and back, set and turn single.
+A2 1-8 Repeat, finishing facing partners.
+BI 1-4 All slip 4 steps to the left and back to place.
+B2 1-4 All slip 4 steps to the right and back to place.
+Cl 1-4 All fall back a double, then forward to place.
+C2 1-4 All cross over with partners to change places, then turn to face.
+D  1-4 Step right and honour partner, step left and honour partner.
+El 1-4 All two hand turn partners once round.
+E2 1-4 Then cross over and turn to face for the hey.
+Fl 1-8 Dance the men’s hey. 1 face 2,3 face 4
+F2 1-8 Dance the ladies hey.. 1 face 2,3 face 4
+  Part 2
+Al 1-8 Side, set and turn single.
+A2 1-8 Side, set and turn single.
+BI to F2 Repeated as Part 1 above.
+  Part 3
+Al 1-8 Arm right, set and turn single.
+A2 1-8 Arm left, set and turn single.
+BI to F2 Repeated as Part 1 above.</code>
+
+Video: https://www.youtube.com/watch?v=Opn96Ur7Fwk&t=33s
+
+The tune is the work of Giovanni Coprario or John Cooper (c. 1570–1626) and is contained in a manuscript of five pieces entitled "Graysin" or "Grayes Inne Masque" (now in the British Museum MS ADD, 10444).  The masque, performed by Grays Inne and Inner Temple, celebrated the marriage of Princess Elizabeth to Frederick, Elector Palatine in 1613. It is thought that the music was part of the anti-masque to provide light entertainment before the more formal activities of the masque itself. (Graham Christian, 2015). At some point, it is thought that a dancing master choreographed this elegant country dance to be danced to the tune.\\
+History: https://tunearch.org/wiki/Annotation:Grays_Inn_Masque
+
+no music

@@ -1,0 +1,20 @@
+====== Room For Ramblers ======
+
+Walsh 1712. \\
+Adapted by Chip & Fran Handrickson in 1984. \\
+ 1718 Longways for as many as will
+   
+<code>
+A1  8  Lines of 4 face up, all proper w/ 2nd couple in middle, 
+       &  lead up 4 steps &  fall back
+    8  1st couple 2-hand turn AS 2nd couple cast around them into 2nd place
+A2  8  1st couple cast AS the 2nd couple move up &  change places
+    8  1st couple half figure-8 up through 2nd (all progressed, improper)
+B   4  1st corners (1st man &  2nd woman) change places
+    4  2nd corners likewise
+    8  All lead neighbor out to side, turn &  lead back
+    4  First couple cast AS 2nd move up between a new first couple</code>
+
+video https://www.youtube.com/watch?v=my7qthNqXR0\\ 
+music-\\
+TTO 2017

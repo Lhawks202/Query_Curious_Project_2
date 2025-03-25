@@ -1,0 +1,23 @@
+====== Huntington's Maggot ======
+
+Video: https://www.youtube.com/watch?v=WkAuG9Emisc\\
+Recordings: {{ ::music:huntingtons_maggot-wtf-b3.mp3.zip |}}\\
+{{ ::music:huntington_s_maggot-_066-bn9sr03.mp3.zip |}}\\
+From Walsh (Dancing Master) 1697:\\
+{{::huntingtonsmaggot89753515.3.jpg?400|}}\\
+Original Formation: Longways duple minor
+
+Music: 2/2, 56 bars, A8A B12B C4C D8D ad lib\\
+Reconstruction<code>
+A1  1-8   Fall back, come forward while turning single; 
+          First corners Right hand turn
+A2  1-8   Fall back, come forward while turning single; 
+          Second corners Right hand turn
+B1  1-6   Once  Cross over (RS) and go down, turn single down twos lead up
+    7-12  Once two hand turn   one and  half
+B2  1-6   Twos  Cross over (RS) and go below , turn single once lead up
+    7-12  Twos two hand turn   one and  half
+C1  1-4   Once Set and cast down Twos lead up
+C2  1-4   Twos  Set and cast down as Once lead up
+D1  1-8   PRNs  Back-to-back; 3 changes into line of four facing up once in the middle
+D2  1-8   Lead up a double & back; Once lead up and cast down to progressed place (D1 L, D2 R)</code>

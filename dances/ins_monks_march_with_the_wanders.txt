@@ -1,0 +1,22 @@
+====== MONKS' MARCH WITH THE WANDERS ======
+ (DM 1713, duple long)
+   
+<code>
+   A1  M1 & W2  figure 8 around other 2, counterclockwise,
+                passing Lt sh in middle to start
+   A2  W1 & M2 same, clockwise round partners, passing Rt sh in middle
+                to begin
+   B1   M lead between W, cast back, turn each other 2H
+   B2   W same
+        (tempo change to 6/8)
+   C1   M1 & W2  back to back
+   C2   2nd corners back to back
+   D1   All clap (tog. rt tog. lt) with partner
+        All clap same on sides
+        M turn 1.5, W turn 1
+   D2   All clap with opposite person
+        M repeat clap as W turn half
+        All turn partners
+</code>
+
+Recording: {{ :music:monks_march_with_the_wanders-wtf-a3.mp3.zip |}}

@@ -1,0 +1,20 @@
+====== Apley House ======
+Longways for as many as will 1703 proper
+
+<code>
+   A1    8  Men fall back a double
+         8  Men advance, turning single
+   A2   16  Ladies the same
+   B     4  Right hands across half-way
+         4  Turn single
+         8  Second couple cast, followed by first, and end in line of four
+            (second couple in center)
+   C     8  All up and back a double
+            End with first couple above, all improper
+         8  First couple cross and go down, as second couple pause,
+            then move up with man crossing partner over</code>
+
+Recording: {{ :music:apley_house-_066-bn9sr07.mp3.zip |}}\\
+{{ ::music:apley_house---010.mp3.zip |}}
+
+video https://www.youtube.com/watch?v=qpOpkEx-tfs

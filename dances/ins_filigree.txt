@@ -1,0 +1,23 @@
+====== Filigree ======
+Rosemary Lach, 2008\\
+
+Recording: {{ ::music:filigree-lady_marian-057-dhp-13.mp3.zip |}}\\
+Video: http://dancevideos.childgrove.org/ecd/ecd-modern/249-filigree\\
+(Perhaps not as well danced, but easier to follow) https://www.youtube.com/watch?v=IqHFe1Oh0z4
+
+improper duple minor
+
+<code>
+A 1-4  Ones cast down, neighbours follow, to the centre of a line of four facing up.
+  5-8  Lines lead up a double and fall back.
+  9-10 Neighbours lead out.
+ 11-12 Neighbours California twirl.
+ 13-14 Neighbours lead in.
+ 15-16 All turn single left.
+B 1-4  Partners swirly side (left).
+  5-6  Single-file circle halfway (clockwise).
+  7-8  Turn single left.
+  9-12 Partners swirly side.
+ 13-14 Single-file circle halfway (clockwise).
+ 15-16 Turn single left.
+</code>

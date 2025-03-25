@@ -1,0 +1,27 @@
+====== WESTMORLAND ======
+(long duple proper 6/8)\\
+ John Playford 1686  \\
+Interpreted by Bernard Bentley in 1965 
+<code>
+   A1 1-4  1st corners 1/2 turn rt and move to the rt round
+           neighbour to place
+      5-8  repeat with Lt and go around partner
+           (continuous movement here)
+   A2      2nd corners, but round partner first, then neighbours
+   B1      1st corners cast, M down, W up, cross lt shoulders
+           between standing partners and go round partners Rt shoulders
+           into each others place
+      5-8  turn 2 hands M+M W+W
+   B2 1-4  2nd corners same,   shoulders in middle and
+           passing around partner lt shoulder
+      5-8  all turn partner 1/2 way 2 hands</code>
+
+Video: https://www.upadouble.info/dance.php?id=Westmoreland&sort1=style 
+
+Westmorland was one of the traditional 39 counties of England, located in the north-west of the country. It presently forms part of Cumbria. 
+
+Music: -
+
+Recordings: -
+
+Source: -

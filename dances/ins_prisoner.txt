@@ -1,0 +1,14 @@
+====== Prisoner ======
+ Cotilion, 4 couples in a square
+<code>
+AA   The Change 
+B1   1st lady dance to 2nd man (1-2), balance forward and back (3-4), 
+     turn 3rd man two hands round (5-8) 
+B2   1st lady dance to 4th man (1-2), balance forward and back (3-4),
+     turn partner two hands round (5-8), ending in center of set 
+C1   All 4 men dance a slipping circle around the lady in the center 
+C2   All turn partners two hands to places 
+   Repeat once for each lady and then each man in turn. 
+   The ladies dance the slipping circle when the men are in the center.</code>
+
+no music

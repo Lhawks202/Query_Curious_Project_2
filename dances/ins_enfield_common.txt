@@ -1,0 +1,34 @@
+====== Enfield Common ======
+
+Playford's Dancing Master in 1701\\ 
+Interpreted by Philippe Callens  in 1999.\\ 
+Proper duple minor longways dance.\\
+
+Tune: Enfield Common  DM 1701 duple, 3/4
+<code>
+A1  1-2  Nbrs. face, set Rt. & Lt.
+    3-4	 Nbrs. turn Rt-h once round
+A2  1-2	 Nbrs. set
+    3-4	 Nbrs. turn Lt-h once round
+B1  1-4	 M. lead  thro' W and cast back meet & turn S away
+    5-8	 W. lead thro' M, cast, meet and turn S away
+B2  1-4	 H-4 halfway round, and cloverleaf turn S, 1stC down, 2ndC up, ending facing Nbrs.
+    5-8	 Three changes Rts. & Lts, starting Rt. with Nbr.
+</code>
+
+Recording: {{ ::music:enfield_common-069-bn13mbt-13.mp3.zip |}}\\
+{{ ::music:enfield_common-055-rsl06.mp3.zip |}}\\
+Video: https://www.youtube.com/watch?v=95qpimoqVzA&t=102s\\
+
+Thomas D'Urfey printed it as the vehicle for a ribald song in his Wit and Mirth, or Pills to Purge Melancholy, vol. 4 (1719-1720). It begins:
+<code>
+On Enfield Common, I met a Woman,
+A bringing North Hall Water to the Town;
+Said I, fair Maiden, you're heavily laden,
+I'll light and give you ease in a Green Gown;
+Says she, 'tis good Sir, to stir the Blood, Sir,
+For the Green-sickness, Friend, will make me like it;
+Then in a Minute I left my Gennett,
+And went aside with her into a Thicket:
+Then with her leave there, a Dose I gave her,
+She straight confess'd her Sickness I did nick it.</code>

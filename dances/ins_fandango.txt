@@ -1,0 +1,43 @@
+====== The Fandango ======
+Playford dance 1774\\
+Interpreted by W. S. Porter, M. Heffer, A. Heffer in 1931 \\
+As reconstructed in "The Playford Ball"  3 couple longways set
+   
+<code>
+A1 1-4 1st couple turn right-hands.
+   5-8 1st couple cast down to second place, 
+       2nd couple moving up on bars 7-8.
+A2 1-4 1st couple turn left-hands.
+   5-8 1st couple cast down to bottom place, 
+       3rd couple moving up on bars 7-8.
+B1 1-8 All circle six-hands around clockwise and back, slipping.
+B2 1-6 1st couple lead up center to top and cast down to 
+       middle place, 3rd couple moving down.
+   7-8 1st couple meet and turn single, man to right, woman to left.  
+A3 1-4 1st man turn 3rd woman two-hands while 
+       1st woman turn 2nd man two-hands.
+   5-8 1st couple turn two-hands in center.
+A4 1-4 1st man turn 2nd woman two-hands three 
+       quarters while 1st woman turn 3rd man
+       two-hands three-quarters.
+   5-8 1st couple turn two-hands once-and-a-half 
+       {skipping and increasing speed of turn}.
+B3 1-8 1st man figure-eight through 2nd couple above, 
+       passing right shoulder with 2nd woman,
+       while 1st woman does the same with 3rd couple 
+       below, passing 3rd man right shoulder.
+B4 1-6 1st couple pass by left in center and hey 
+       for three at other end, skipping,
+       the 1st woman passing 2nd man left shoulder, 
+       1st man passing 3rd woman left shoulder.
+   7-8 Finishing the hey, 1st couple lead down center 
+       to bottom, 3rd couple end in middle, 2nd at top.
+          Repeat dance twice more.
+</code>
+
+Recordings: {{ ::music:fandango--009.mp3.zip |}}\\
+{{ ::music:fandango-072-bntad-04.mp3.zip |}}\\
+{{ ::music:fandango--020.mp3.zip |}}\\
+{{ ::music:fandango_057-dhp-03.mp3.zip |}}\\
+Video: https://www.youtube.com/watch?v=VHjkMr1CDnU#t=00m44s
+

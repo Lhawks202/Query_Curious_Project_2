@@ -1,0 +1,135 @@
+======  St. Margaret's Hill ======
+Longways for six\\
+Recording: {{ ::music:st_margarets_hill-072-bntad-08.mp3.zip |}}\\
+{{ ::music:saint_margarets_hill--045.mp3.zip |}}\\
+{{ ::music:st._margaret_s_hill--014.mp3.zip |}}\\
+{{ ::music:st.margaretshill-dhpedh04.mp3.zip |}}\\
+
+
+<code>
+ A    12  First couple cast down one place
+          Turn (both hands) 3/4, lady ends between second couple, 
+          man between third couple.
+      12  Lines of three fall back, then advance to circle six-hands halfway
+ B1    6  First couple each turn person on the right with right hand
+       6  First couple turn 3/4 by left
+       6  and lead (improper) through second couple and cast back to middle
+       6  Turn half-way, both hands
+ B2    6  First couple each turn person on the right with left hand
+       6  First couple turn right hand
+       6  and lead through third couple and cast down to middle
+       6  ALL turn half-way, ending proper
+ Repeat dance twice more with successive couples leading
+</code>
+
+
+==  More detail  ==
+<code>
+   start, lower case for active couple
+                   w   W   W
+   (Top of hall)
+                   m   M   M    
+</code>
+   
+   
+<code>
+  A    12  First couple cast down one place
+           Turn (both hands) 3/4, lady ends between second
+           couple, man between third couple.  L above M below 
+              W       W
+   Top        w       m
+              M       M
+   
+        12  Lines of three fall back, then advance to circle 
+            six-hands halfway   (L below, M above)
+   
+              M       M
+                      |
+    Top          m       w
+              |
+              W       W
+   B1    6  First couple each turn person on the right with right hand
+            L below, M above  They are on the corners and end up as you indicate
+         6  First couple turn 3/4 by left  (improper)
+
+            M           M
+                  m
+                  w   ---> going out bottom
+            W           W      
+   
+        6  and lead (improper) through second couple and cast back 
+           to middle   (improper)
+      
+        6  Turn half-way, both hands   (proper) and fall back to slightly outside 
+           line of dance on sides
+
+                  w  
+            M ==        M     
+            W       ==  W
+                  m
+                  
+==  indicates who will next take hands
+ 
+B2    6  First couple each turn person on the right with left hand   (proper)
+         M          M
+         w          m
+         W          W
+      
+        6  First couple turn right hand  NOTE: 3/4 (proper) No. 
+           In middle between 
+
+         M          M
+          <--  m
+               w
+         W          W
+
+   
+        6  and lead (up) through third couple and cast down to middle
+           (Improper)
+        
+        6  ALL turn half-way, ending proper (this would be improper!!!)
+   
+   Repeat dance twice more with successive couples leading
+</code>
+
+
+Video: https://www.youtube.com/watch?v=iMEhK5KryKQ
+
+Animation: https://www.upadouble.info/dance.php?id=StMargaretsHill&sort1=publication
+
+==== Another interpretation ====
+
+Note that this dance really is due to Bernard Bentley in [[https://colinhume.com/defalli.htm|Fallibroome 1]], published in 1962. Colin Hume (in https://colinhume.com/instr.htm#StMargaret) suggests a different interpretation for the instructions in the Dancing Master Volume 2, 1st Edition, c. 1713: John Young version, which has wording
+
+//Note: The first strain once, and the last twice.
+
+The first Cu. cast off both together, the Man falls in between the 3d Cu. and the Wo. falls in between the 2d Cu. then fall back, and hands half round  .   The 1st Man turns the 3d. Wo. and his Partner turns the 2d Man at the same Time, then turn your Partner half round, and lead her through the Bottom Cu. and come up and turn her, then the Wo. turns the 3d. Man, and her Partner turns the 2d. Wo. both at once, then turn Hands half round, and lead through the Upper Cu. and cast off and turn  : 
+//
+
+Hume's instructions (reformatted) are 
+
+=== Saint Margaret's Hill ===
+
+
+<code>
+Format: 4 couples Longways (3 working as in triple minor)
+A:	Ones cast to middle place (6 steps); 
+        meet with the man below the lady (3 steps), 
+        fall back to finish with man between the bottom couple, 
+        lady between the top couple. 
+        Lines fall back (3 steps), lead forward (3 steps); 
+        ones move forward to meet, two-hand turn one quarter 
+        and fall back into middle place proper (6 steps).
+B1:	Ones right-hand turn first corner (6 steps); 
+        left-hand turn partner to finish facing down on own 
+        side and keep hold.  Lead down, cast up.  
+        Left--hand turn about half-way.
+B2:	Ones right-hand turn second corner; 
+        left-hand turn partner to finish facing up on own side.  
+        Lead up, cast; left-turn all the way.
+</code>
+
+
+
+
+Animation: https://www.upadouble.info/dance.php?id=StMargaretsHill-Hume&sort1=publication

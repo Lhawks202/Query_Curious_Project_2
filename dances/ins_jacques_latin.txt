@@ -1,0 +1,41 @@
+====== Jaque Latin ======
+
+Duple Minor Longways, 2/4 meter\\
+Playford 1775\\
+Hendrickson 1996\\
+Recording: {{ ::music:jaque_latin-bnbc7-01.mp3.zip |}}
+
+<code>
+A1  1-8  W1 hey with men, giving L-shoulder to M2 (end home)
+A2  1-8  M1 repeat with women (R-shoulder to W2 begin)
+B1  1-8  C1 cross passing R-shoulder, move down one place 
+         (C2 move up), cross and move down one more place
+B2  1-4  C1 lead up to below original C2 and set to them
+    5-8  C1 lead up through C2 and cast to 2nd place
+C1  1-4	 Facing on the diagonal, all set twice 
+    5-8	 L-hands across once round
+C2  1-4	 Facing on the diagonal, all set twice
+    5-8	 R-hands across once round
+</code>
+Video: https://www.youtube.com/watch?v=62E0XunihFM\\
+[[ pins_jaque_latin | Additional private notes ]]\\
+
+The tune to which Willsim sets his dance was among the most popular of a
+the 18th century and comes with a spectacular story, unearthed by Sean Donnelly 
+in 1988. John Lattin (also Latton or Layton) was the scion of a wealthy
+gentry family in Naas, County Kildare. 
+
+John Lattin, according to a still surviving tombstone, died
+at the age of twenty-one in 1731- not, in itself, remarkable in the 18th century,
+Multiply attested tradition, however, suggests that John (Jack) Lattin accepted
+a wager to dance the eight miles from Castle Browne back to his home at
+Morristown. Lattin succeeded, and then collapsed and died of exhaustion
+shortly thereafter. \\
+As a family rhyme has it:
+
+  * Jack Lattin dressed in satin 
+  * Broke his heart of dancing 
+  * He danced from Castle Browne .
+  * To Morristown.
+
+

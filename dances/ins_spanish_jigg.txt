@@ -1,0 +1,36 @@
+====== Spanish Jigg ======
+1721       duple minor, longways \\
+Playford in 1651. Adapted by Douglas and Helen Kennedy in 1929 \\
+Republished by Tom Morrison in 1978, \\
+Recording: {{ ::music:spanish_jigg-_066-bn9sr11.mp3.zip |}}\\
+
+<code>
+Part    Bars        Description
+A1        4        1's set & cast down 1 place, 2's moving up
+A2        4        2's, the same 
+B1        4        1st corners turn 2 hands
+B2        4        2nd corners, the same
+C1        4        1's lead down center & turn
+C2        4        1's skip back & cast down 1 place, 2's moving up
+D1 & D2   8        1's full figure 8 up through 2's
+</code>
+
+====== Spanish Jigg ======
+<code>
+Al 1-4 1s set right and left to partner, then cast down into 2nd place, 2s moving up.
+A2 1-4 2s set right and left to partner, then cast down into 2nd place, 1s moving up.
+B1 1-4 1st corners two-hand turn once around.
+B2 1-4 2nd corners two-hand turn once around.
+C1 1-4 1s lead down the center of the set.
+C2 1-4 1s lead back to places (skipping) and cast down into 2nd place, 2s moving up.
+D1, D2 1s dance a full figure eight up through the 2s (skipping).</code>
+
+Video: https://www.youtube.com/watch?v=2aawN7v-vwA\\
+(This video was recorded in Ottawa when David Smuckler ran
+a session "English to Contra" with the Ottawa Old Sod Contra group
+in March 2018.)
+
+“Spanish Jigg” is likely to be closely connected with the
+prolific Thomas D’Urfey’s Comical History of Don Quixote from 1694, one of the
+very first adaptations of Cervantes’ smash bestselling novel from earlier in the
+century. 

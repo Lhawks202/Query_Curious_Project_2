@@ -1,0 +1,21 @@
+
+
+====== A New Rigadoon ======
+ 
+
+Longways duple minor, 2/2 meter\\
+Playford, 1690, interpreted by Andrew Shaw, 1995\\
+Tune: New Rigadoon
+
+<code>
+A1   1-8   M1 turns partner by the right hand, then M2 by the left hand.
+A2   1-8   W2 turns partner by the right hand, then W1 by the left hand.
+B1   1-8   1s cross, move down below 2s, and half figure 8 up through 2s, 
+              2s move up.
+
+B2   1-4   1s gated down through new 2s below  up to their progressed place.
+     5-8        All two-hand turn partner.</code>
+
+https://www.youtube.com/watch?v=GEJ1Th0boKk\\
+The **rigaudon** (French: [ʁiɡodɔ̃, ʁiɡɔdɔ̃], Occitan: [riɣawˈðu]), anglicized as rigadon or rigadoon, is a French baroque dance with a lively duple metre. The music is similar to that of a bourrée, but the rigaudon is rhythmically simpler with regular phrases (eight measure phrases are most common). It originated as a sprightly 17th-century French folk dance for couples.\\
+History: https://en.wikipedia.org/wiki/Rigaudon

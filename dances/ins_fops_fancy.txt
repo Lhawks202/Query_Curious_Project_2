@@ -1,0 +1,32 @@
+====== Fop's Fancy ======
+
+Duple minor  proper\\
+First published in Walsh of 1715. \\
+Proper duple minor longways dance. \\
+Adapted by Andrew Shaw in 2002. 
+<code>
+DMLW
+A1 1-4	1s and 2nd man circle left once around (3 bars), 
+        then 1s and 2s (now including 2nd woman) turn single left (1 bar).
+A2 1-4	1s and 2s circle right once around (3 bars), 
+        then all turn single right (1 bar).
+B1 1-4	1st corners change places (2bars) then 2nd corners change places (2bars)
+B2 1-2	1s and 2s, two changes of rights and lefts, starting with partner.
+   3-4	Partners two-hand turn once around.
+C1 1-4	1s cast down into 2nd place, 2s leading up (2 bars), 
+          then partners back-to-back right shoulder (2 bars).
+ C2 1-4	1s and 2s, four changes of rights and lefts, starting with partner.
+</code>
+
+Copyright © none\\
+Source: Graham Christian, TTO 2016 Ball Program\\
+Sticker Number: n/a\\
+Recording: {{ ::music:fops_fancy-persons_of_quality.mp3.zip |}}\\
+
+Fop's Fancy is an English Country Dance first published in Walsh of 1715. 
+It is an proper duple minor longways dance. It was adapted by Andrew Shaw in 2002. 
+Found in "The Playford Assembly".
+
+FOP became a pejorative term for a man excessively concerned with his appearance 
+and clothes in 17th century England.\\
+Video: https://www.youtube.com/watch?v=XgwMsj58WRY&t=16s

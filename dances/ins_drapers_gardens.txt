@@ -1,0 +1,28 @@
+====== Drapers Gardens ======
+
+Playford, //The Dancing Master//, 1706-1728.\\
+Bernard J. Bentley, //Fallibroome Collection, vol. II//, 1965.\\
+Kate Van Winkle Keller and Genevieve Shimer, //The Playford Ball// (CDSS), 1994.\\
+
+Preston, "The Margravine's Waltz", //Preston's Twenty Four Country Dances//, 1799.\\
+Peter Barnes, //English Country Dance Tunes, vol. 1//, p30.\\
+3/4, G major
+
+Recordings: {{ ::music:drapers_gardens-_064-bn3sp07.mp3.zip |}}{{ :music:drapers_gardens-wtf-b5.mp3.zip |}}
+<code>
+proper duple-minor longways
+
+A1 1-4  First corners set forward and turn single.
+   5-8  First corners two-hand turn once around.
+A2 1-4  Second corners set forward and turn single.
+   5-8  Second corners two-hand turn once around.
+B  1-2  Women face and two-hand turn halfway.
+   3-4  Men face and two-hand turn halfway.
+   5-8  Circle left halfway.  Neighbors fall back on the side.
+   9-12 Partners face for rights-and-lefts, two leisurely changes.
+  13-16 Ones lead up through the twos couple and cast down one place.
+</code>
+
+Bernard Bentley has a turn single left at the end of the circle left in B 5-8.
+
+Video: https://www.youtube.com/watch?v=fOsIAPFlRNk

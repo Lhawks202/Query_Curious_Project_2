@@ -1,0 +1,34 @@
+====== Return of Spring ======
+
+
+Source: modern invention in the style of Playford; LoD v1.\\
+Setting: three couple longways set\\
+Version: 1.0
+
+<code>
+   Verse:
+ 1-4   Double forward and back (up and down the hall),
+ 5-8   set and turn single.
+ 9-16  Repeat 1-8.
+   Chorus:
+ 17-18 1st Couple trade places, taking right hands,
+ 19-20 1st and 2nd couples trade places with their contrary along the sides, taking left hands,
+ 21-22 1st and 2nd couples trade places with their partners, taking right hands,
+ 23-24 All 3 couples turn until proper (either 1/2 turn or 1 turn.)
+ 25-32 Repeat chorus, with 1st and 3rd couples trading places.
+   Verse:
+ 1-4  Siding,
+ 5-8   set and turn single.
+ 9-16  Repeat 1-8.
+   Chorus, with new 1st couple leading.
+   Verse:
+ 1-4  Arming,
+ 5-8   set and turn single.
+ 9-16  Repeat 1-8
+   Chorus, with new 1st couple leading.</code>
+   
+Discussion:\\
+This dance was written by Ellisif, and won the AS XXIII Ice Dragon competition.
+
+Some history: \\ \https://www.pbm.com/~lindahl/lod/vol1/retspring.html\\
+no music

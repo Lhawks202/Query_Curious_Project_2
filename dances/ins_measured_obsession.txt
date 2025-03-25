@@ -1,0 +1,27 @@
+====== Measured Obsession ======
+Fried DeMetz Herman      1991 \\
+Recording: {{ ::music:measured_obsession-059_mobsn-09.mp3.zip |}}
+duple minor, longways, 1's improper
+<code>
+Part  Bars  Description
+A1    2    Right-hand star 1/2
+      2    Women balance in and out while men orbit 1/2 clockwise
+      2    Right-hand star 1/2
+      2    Men balance in and out while women orbit 1/2 clockwise
+      
+A2    2    Partners take two hands (facing across) and men retreat straight back
+      2    Partners take inside hands (1's face up, 2's face down) and 
+           advance one place along the set, taking two slow steps
+           
+      2    Partners join both hands, women retreat back into lines
+      2    1's lead down one place and face out, taking two slow steps, 
+           while the 2's cast up and face in, taking 6 steps
+           
+B     4    1's face en face while 2's back to back
+      4    1's back to back while 2's face en face
+      
+C     3    1's lead up and cast down, while the 2's cast down and lead up
+      1    Partners two-hand turn 1/2
+      2    Neighbors right-shoulder gypsy
+      2    All turn single to the right, ending in position for the new right-hand star</code>
+

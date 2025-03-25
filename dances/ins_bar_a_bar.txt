@@ -1,0 +1,35 @@
+====== Bar A Bar ======
+Walsh 1718  \\  
+duple minor, longways \\
+De Metz Harman 1986\\
+<code>
+  A1  2  In a double to the center (of your set of four)
+      2  Turn single right, back to place
+      4  Circle left
+  A2  2  Neighbors lead out
+      2  Turn alone and lead back
+      4  Partners back to back
+      
+  B   2  1st corners change
+      2  2nd corners change
+      4  Women lead through the men and cast back to place
+      
+      4  Face neighbor, take inside hands with partner and go forward and back
+      2  2's cast down while the 1's lead up
+      2  Partners two-hand turn 1/2 (1's start by handing partner across), all end proper
+      4  Partners half-poussette CCW (1st woman and 2nd man advance)</code>
+
+Recording: {{ :music:bar_a_bar-063_bn6atb-09.mp3.zip |}}\\
+video https://www.youtube.com/watch?v=b2QRGfZDcUE
+
+«Windsor Tarras.” “Barabar” was a popular imported
+red wine, now better known by its rightful name, Barbera. It was the specialty
+of Thomas Tomkins, who sold it at Lloyd's Coffee-House on Lombard Street,
+as well as an anonymous merchant who sold at the Black Lion and promised a
+brew “neat, deep, fresh, and strong, no Bar-a-Bar in England so good.” Not all
+shared his enthusiasm, however:\\
+  * What planet distracts thee, what damnable Star,
+  * To dash honest Bourdeaux with vile Barabar?
+  * Why shou'd innocent Claret be murder’d by Port?
+  * Thou'lt surely be sentenced in Bacchus’ Court.
+  * (T. Browne, Works in Prose and Verse 3: 107.)

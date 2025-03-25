@@ -1,0 +1,41 @@
+====== Mrs. Beveridge's Triumph ======
+
+Recording: {{ ::music:mrs_beveridges_triumph-069-bn13mbt-04.mp3.zip |}}
+
+Duple minor, proper
+
+<code>
+A1	1 - 4	1st woman set to 2nd man, who falls 
+                back a double away from her, then she 
+                dances between the men and turns right 
+                behind her partner to return to her 
+                starting spot, while the other three 
+                dancers cast to their right, ready to 
+                follow her;
+	5 - 8	All four dance single file clockwise 
+                halfway round. (All progressed, improper)
+A2	1 - 4	2nd woman set to 1st man, who falls 
+                back a double away from her, then 
+                she dances between the men and turns 
+                left behind her partner to return to 
+                where she started the figure, while 
+                the other three dancers cast to their 
+                left to follow her;
+	5 - 8	All four dance single file 
+                counterclockwise halfway round to 
+                starting places, end facing up.
+B1	1 - 8	1s cast down and meet to form the 
+                middle of a line of four, while the 
+                2s lead up and cast out to the ends 
+                of the line. Line of four up a double 
+                and back, ends turning in.
+B2	1 - 8	Circle left once around. 1s lead up 
+                through the 2s and cast back to 
+                progressed places.
+</code>
+
+Copyright © none
+
+Source: Graham Christian, TTO Ball Program
+
+Sticker Number: n/a

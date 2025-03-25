@@ -1,0 +1,5 @@
+====== Chrysalis ======
+
+Recording: {{ ::music:chrysalis-roguery_-_8_32_bars_aabb_7x_.mp3.zip |}}
+
+[[ :private:p_ins_chrysalis | Private Instrns ]]

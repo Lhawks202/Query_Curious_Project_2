@@ -1,0 +1,59 @@
+======John Tallis's Canon ======
+
+(longways,duple by Pat Shaw)
+
+<code>
+   A. Corners meet,fall back; cross over (pass R), turn single left
+   A. Repeat as above
+   B. Corners turn R; set moving back, turn single R
+   B. Corners turn L; fall back, turn single moving forward 
+      (1stcorners veer R in front, 
+      2nd corners veer L behind)</code>
+
+
+See an [[http://www.dancekaleidoscope.org.au/dance.html#JohnTallisCanon|animation of this dance]] {{:svglogosmall.png?30|}}.
+
+Recording: {{ ::music:john_tallis_cannon--043.mp3.zip |}}\\
+{{ ::music:john_tallis_s_cannon--023.mp3.zip |}}
+
+A more detailed version follows:
+
+====== John Tallis’s Cannon ======
+
+Longways duple minor    32 bar jig played as a round
+
+Pat Shaw Collection Book 2, 1965
+
+Source: TW250412
+
+First corners lead, second corners repeating 2 bars later
+
+<code>
+A1
+First corners meet           
+Fall back                                     Second corners meet
+Cross over passing right shoulder             Fall back
+Turn single left                              Cross over passing right shoulder
+
+A2
+Repeat First corners meet                     Turn single left
+Fall back                                     Second corners meet
+Cross over passing right shoulder             Fall back
+Turn single left                              Cross over passing right shoulder
+
+B1
+Right hand turn halfway                       Turn single left
+Right hand turn halfway (star)                Right hand turn halfway (star)
+Set right and left                            Right hand turn halfway
+Turn single right                             Set right and left
+
+B2
+Left hand turn halfway                        Turn single right
+Left hand turn halfway (star)                 Left hand turn halfway (star)
+Fall back to side wall                        Left hand turn halfway
+Forward diagonally to progress right          Fall back to side wall
+
+A1
+                                              Forward diagonally to  progress left
+
+</code>

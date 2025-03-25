@@ -1,0 +1,35 @@
+ ====== Barbarini's Tambourine ======
+Walsh 1745\\
+Schwab 1987\\
+Longways for as many as will
+
+<code>
+ A1   16  First corners cast (left) around neighbor, pass each other left,
+          and loop right around partner to corner's place.
+ A2   16  Second corners the same (cast right and pass right).
+
+ B1    8  All balance back (4), and cross to own side (4).
+      16  Back to back with neighbor, then partner.
+      
+ B2   16  Four changes of circular hey, handing
+       8  Turn partners both hands.</code>
+
+Music:\\
+{{ :music:barbarinis_tambourine-074-bnntcap-13.mp3.zip |}} - modern instrumentation \\
+{{ ::music:barbarinis_tambourine-vemh-01.mp3.zip |}} -- period music\\
+video https://www.youtube.com/watch?v=TrKr2VCRYSc
+
+Barbara Campanini, also known as “La Barbarina,” was one of the greatest dancers of her day, 
+she was also one of its greatest beauties. Born in Parma in 1721,
+she triumphed in Paris, London, Vienna, Dublin, and Berlin. When Frederick the
+Great of Prussia insisted on engaging her services in 1743, she attempted to
+elude what she viewed as an onerous obligation by escaping to Venice
+the besotted young Scottish aristocrat James Stuart-Mackenzie, but the lovers
+were detained and separated. In 1748, she again risked Frederick’ rage by accepting 
+the marriage proposal of Carl Ludwig von Cocceji, son of a Prussian
+chancellor, who had leapt onto the stage to declare his love: When Cocceji 
+affections wandered, she demanded an honorable divorce, took the title of
+Countess Campanini, and ended as the lay abbess of a convent. Left all to the nuns.\\
+Her likeness has graced an East German stamp, and her romantic escapades have
+inspired four movies to date. 
+

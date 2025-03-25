@@ -1,0 +1,32 @@
+====== Bonny Nell ======
+
+See an [[http://www.dancekaleidoscope.org.au/dance.html#BonnyNell|animation of this dance]] [[Image:SvgLogoSmall.png]].
+
+Tune: Bonny Nell
+
+two facing couples
+<code>
+1-4	Set to opposite holding hands with partner, turn single
+5-8	Lead opposite away and toward the other pair
+9-16	Repeat to partners hold hands with opposite
+17-20	Men right turn once and a bit to face opposite
+21-24	Men gypsy left around opposite while women change places passing right
+25-28	Women left turn once and a bit to face opposite
+29-32	Women gypsy right around opposite while men change places passing left
+33-36	Set to opposite holding hands with partner, turn single
+37-40	Side with opposite
+41-48	Repeat to partners hold hands with opposite
+49-52	All right hand star to place
+53-56	All cast out to left 2 places skipping
+57-60	All left hand star once round
+61-64	All cast out to right to original place skipping
+65-68	Set to opposite holding hands with partner, turn single
+69-72	Right arm turn opposite
+73-80	Repeat to partners hold hands with opposite, but arm left
+81-82	Face partner and pass by right shoulders
+83-84	Men cast right to place while women half right hand turn
+85-88	Women continue right hand turn to original place with men skipping joined on outside
+89-90	Face opposite and pass by right shoulders
+91-92	Men cast right to place while women half right hand turn
+93-96	Women continue right hand turn to original place with men skipping joined on outside
+</code>

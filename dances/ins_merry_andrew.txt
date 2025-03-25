@@ -1,0 +1,71 @@
+====== Merry Andrew ======
+
+3C set
+
+<code>
+A1  1-2  C1 & C2 Rh across 1/2 way
+    3-4  C1 & C2 Turn single L
+    5-6  C1 & C2 LH across 1/2 way
+    7-8  C1 & C2 Turn single R
+A2  1-8  C2 and C3 do same as A1
+B1  1-4  M1 & W2 set and pass R, M2 and W3 same (Typo in Maggot Pie)
+    5-8  M2 followed by M1 cross below M3 and cast to top man's place, 
+         while W2 followed by W3 cross above W1 and cast to bottom 
+         woman's place
+B2  1-4  C1 set (not forward) and pas R, C3 same
+    5-8  M1 followed by M3 cross above M2 and cast to bottom man's place, 
+         while W3 followed by W1 cross below W2 to top woman's place 
+              End    W3  W1  W2
+                     M2  M3  M1
+</code>
+
+
+Source: Maggot Pie
+
+Recording: {{ ::music:merry_andrew-bnah5-08.mp3.zip |}}\\
+{{ :music:merry_andrew-slow-bnah5-12.mp3.zip |}}
+
+
+====== The Merry Andrew ======
+
+
+Three couple longways mixer, A Minor, 2/2
+Maggot Pie, Marjorie Heffer and William Porter (EFDSS), 1932; reprinted 1979.
+
+<code>
+  A1 1-2  1st and 2nd couples right hands across halfway.
+     3-4  All turn single.
+     5-6  Same four left hands across halfway.
+     7-8  All turn single.
+  A2 1-8  2nd and 3rd couples the same.
+  B1 1-4  Dancers on the right diagonal (1st man and 2nd
+          woman, 2nd man and 3rd woman) set in place, then
+          cross by right shoulder.
+     5-8  2nd man, followed by 1st man, cross below and
+          around 3rd man to top man's place, while 2nd woman,
+          followed by 3rd woman, cross above and around 1st
+          woman to bottom woman's place (following dancers
+          end in middle place). Order is now: top 2M 1W 1M 3W
+          3M 2W
+  B2 1-4  Dancers on the left diagonal (1st man and 1st
+          woman, 3rd man and 3rd woman) set in place, then
+          cross by right shoulder.
+     5-8  1st man, followed by 3rd man, cross above and
+          around 2nd man to bottom man's place, while 3rd
+          woman, followed by 1st woman, cross below and
+          around 2nd woman to top woman's place. Order is
+          now: top 2M 3W 3M 1W 1M 2W</code>
+
+NOTES
+Al, 2
+ln Maggot Pie, the turns single are noted as being to the right after right hands across, 
+and to the left after left hands across. We have been doing them the other way!
+B1, 2
+There is no facing back in to the set by the pairs that cross on the diagonals. 
+Simply continue forward into the loop around the standing dancer.
+
+A pleasant and most uncomplicated dance! Middle couple in any round has the extra pleasure 
+ dancing the entire A music, above, and then below. All to a sweet tune.
+
+video https://www.youtube.com/watch?v=XsKwZ1MWotA
+

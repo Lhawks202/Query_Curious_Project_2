@@ -1,0 +1,18 @@
+====== Morecambe Bay ======
+Recording:  {{ ::music:morcambe_bay--023.mp3.zip |}}  \\
+1972 Pat Shaw \\
+Sicilian Circle couple facing couple around room, 
+reel or jig,  2 steps per par 
+   
+<code>
+Part    Beats        Description
+A1        8        R-hands across œ w/opposites. On 5th beat, 
+                   all clap and turn single L, to ...
+          8        L-hands across œ, clap and turn single R [[to|place]].
+A2        16       W/opposite, back to back (8).
+                   Swing opposite, ending w/lady on R facing partner.
+B1        16       Ladies chain, North country style, over and back
+B2        16       Circle left, then swing partner; end facing 
+                   the next couple.
+</code>
+

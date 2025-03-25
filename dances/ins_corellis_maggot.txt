@@ -1,0 +1,22 @@
+====== Corelli's Maggot ======
+
+Cathy and John Millar, 1993.\\
+CDSS, //Gems//, 1993.
+
+Arcangelo Corelli, "Gavotte" (adapted) from Violin Sonata, Opus 5, #10, 1700.\\
+2/4, F major
+<code>
+proper duple-minor longways
+
+A1 1-4 First corners set and turn single.
+   5-8 First corners two-hand turn once around.
+A2 1-4 Second corners set and turn single.
+   5-8 Second corners two-hand turn once around.
+B1 1-4 Ones cross by the right and go below while twos lead up.
+   5-8 Ones half figure-eight up through the twos.
+B2 1-4 New twos gate ones down the middle and around to progressed places.
+   5-8 Original twos gate ones down the middle and around to progressed places.
+</code>
+
+Recording: {{ ::music:corellis_maggot-063_bn6atb-03.mp3.zip |}}\\
+{{ ::music:corelli_s_maggot-ltbsa-01.mp3.zip |}}

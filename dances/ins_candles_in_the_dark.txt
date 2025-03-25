@@ -1,0 +1,20 @@
+====== Candles in the Dark ======
+
+(2006, Loretta Holz) duple minor, longways, proper, waltz time\\
+Video: https://www.youtube.com/watch?v=6XBnEREVB00\\
+Music by Jonathan Jensen  {{ ::music:candles_in_the_dark-frdata-10.mp3.zip |}}\\
+
+<code>
+ A1 12 Assisted half figure-8s: C1 face down, M1 man takes 
+       R-hand in right w/ W1, guiding her in front as
+       they cross down between C2 & cast up to exchange places
+    12 M1 & W2 assisted half figure-8 across set
+ A2 12 M2 & W1 assisted half figure-8 across the set
+    12 C2 assisted half figure-8 down between C1 
+       All progressed, improper
+ B1 12 Mirror back-to-back w/ neighbor (C2 take hands to begin)
+    12 Circle-4 once around
+    12 Mirror back-to-back w/ neighbor (C1 take hands to begin)
+    12 Partners gypsy one-and-a-half to finish proper
+</code>
+

@@ -1,0 +1,22 @@
+====== Money in Both Pockets ======
+
+Duple minor proper
+
+<code>
+C1 set twice to W2; circle 3 left once
+C1 set twice to M2; circle 3 left once
+C1 lead down to below their C2; face and set
+C1 lead up above C2 and cast
+4 changes of R & L
+</code>
+====== Money in Both Pockets ======
+Duple minor longways\\
+<code>
+Al Is set twice to 2nd woman, then circle left with her once around.
+A2 Is set twice to 2nd man, then circle left with him once around.
+
+B1 Is lead down the center of the set, then lead back to places (skipping), 
+   and cast down into 2nd place.
+B2 Four changes of rights and lefts.</code>
+
+Video: https://www.youtube.com/watch?v=ZnEcnSexloQ&list=UU1JE6bO7E1wC-z7JhYzsY6Q&index=3

@@ -1,0 +1,32 @@
+====== BARTLETT HOUSE ======
+Cruickshank 2001\\
+Bray 1699\\
+Duple Improper, 2 steps/bar\\
+Recordings: {{ ::music:bartlett_house--023b.mp3.zip |}}\\
+{{ :music:bartlett_house-psp17.mp3.zip |}}-- preferred recording\\
+<code>
+ A1  1-4  M cast R, up the middle passing L shoulder to original place, face out.
+          W follow partner to opposite W's place, finish facing out
+     5-8  Lead partners out and back       
+ A2       As above, W casting to L, (Men follow W opposite) passing R shoulders 
+          in middle  (now progressed, 1st C proper, 2nd improper)
+                           
+ B1  1-2  Quick changes R with partners (1 bar), L on side, keep hands on sides  
+     3-4  with hands, set forward and back       
+     5-8  back to back, L shoulder and finish facing across set       
+ B2  1-4  All cast R and dance half way round. Progressed, 2nd improper 1st proper   
+     5-8  facing neighbor, 3 changes with hands.</code>
+       
+       
+ Animation http://dancekaleidoscope.org.au/dance.html#BartlettHouse\\
+ video: https://www.youtube.com/watch?v=U9EtJN2b2ew\\
+
+**The Bartlett Buildings**, sometimes called **Bartlett's Court**, were built by
+Thomas Bartlett in 1615, in Holborn, Strype's survey of London in 1720 calls
+this little street off Fetter Lane “a very handsome spacious Place, graced with
+good Buildings of Brick, with Gardens behind the Houses; and is a place very
+well inhabited by Gentry, and Persons of good Repute” It was, moreover,
+quite close to Lincoln’s Inn Fields Theatre, where Thomas Bray had danced
+and choreographed for the United Company the Bartlett Buildings may have
+had personal meaning for Bray.
+

@@ -1,0 +1,22 @@
+====== Midwinter Maggot ======
+
+2010 Gary Roodman\\
+Tune by Jonathan Jensen 2010\\
+Recording: {{ ::music:midwinter_maggot-071_bn15ff10.mp3.zip |}}\\
+duple LW 2/2 [Dm]
+
+<code>
+A1 1‐4 All up a dbl and back
+   5‐8 1s cast off one place, meet in middle of line of 4, 
+       WHILE 2s lead up, cast off onto the ends of the line
+A2 1‐4 Line of 4 up a dbl and back, bending the line 
+       (all are progressed and proper)
+   5‐8 All circle 1⁄2‐way, and pass RS with Ptr (to home place) into:
+B1 1‐4 Single‐file circle CW 1⁄2‐way round; all turn sgl L
+   5‐8 Single‐file circle CCW 1⁄2‐way round; all turn sgl R 
+       (all are home)
+B2 1‐8 Beginning with Ptr, 2 changes of R and L; 
+       Ptrs BH turn 1 1⁄2 
+       (ending facing up to begin again)
+</code>
+Video: http://dancevideos.childgrove.org/ecd/ecd-modern/255-midwinter-maggot

@@ -1,0 +1,25 @@
+====== Horseplay ======
+Gary Roodman, New Friends\\
+Music: Branle de Cheveaux (T. Arbeau)\\
+Recording: New Friends Track 1\\
+{{ ::music:branle_des_chevaux_horse_play_--047.mp3.zip |}}\\
+{{ ::music:horseplay-_076-newfriend-01.mp3.zip |}}\\
+Video: https://www.youtube.com/watch?v=OHnmVmpjxiQ&feature=related
+
+Duple minor improper
+
+<code>
+   A1  1-4  S&TS
+       5-8  2 changes Rights and Lefts (to partner)
+   A2  repeat A1 from here
+   B1  1-4  (form lines of 4) C1 cast down 1 place, 
+             into middle, mirror TS up to end facing down, while
+            C2 lead up and cast away onto end of line  
+            (M2 W1 M1 W2 facing down)
+       5-8  Lines fall back and come forward
+   B2  1-4  Progress: Middles (C1) face end and gypsy  
+            about 1.25 on men's side, .75 on women's side
+       5-8  To meet new nbr and 2 hand turn 1* to end 
+            facing partner.
+</code>
+

@@ -1,0 +1,43 @@
+====== Love's Triumph ======
+Longways for six\\
+Recordings: {{ :music:loves_triumph_-_6x48-ff-ti04.mp3.zip |}}
+Scott Higgs reconstruction 2022
+
+<code>
+A1    8  C1 and C2 double to ctr of 4. Turn S R to place
+      8  First and second couples circle halfway.
+         C1 and C2 turn half way.
+A2    8  C1 and C3 repeat this (double, Turn S, circle 1/2, turn 1/2)
+B1    8  First couple cast up one.
+      8  Partners back to back, and turing single at end of figure.
+      16  C1 and C2 4 changes R&L starting with neighbour
+B2    8  On R diagonal RH turn, C1 (in middle) pass R, 
+      8	 Left diagonal RH turn (NOTE: RH) 
+	 C1 return to own side in middle at end.
+     16  All turn ptnr 2 H, then C1 lead up and cast to bottom,
+         while C3 move up to middle.
+(Beat count may be wrong and need fixing)
+</code>
+
+
+
+Playford Ball version
+   
+<code>
+   A1    8  First and second couples a double to each other and turn single
+            to place. (Partners turn toward each other.)
+         8  First and second couples circle halfway.
+   A2    8  First and third couples a double to each other, and turn single
+            to place. (Partners turn away from each other.)
+         8  First and third couples turn halfway.
+   B1    8  First couple cast up one.
+         8  Partners back to back, and turn single.
+            (Third couple facing, first and second facing neighbor).
+        16  First and second couples rights and lefts (hands), starting with
+            partner.
+   B2    8  First man turn third man three-quarters (right-hand), while
+            first lady the same with third lady.
+        12  First couple lead up and cast to middle, then lead down to last
+            place.
+         4  Partner's turn left halfway.</code>
+

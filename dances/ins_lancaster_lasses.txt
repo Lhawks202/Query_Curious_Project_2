@@ -1,0 +1,15 @@
+====== LANCASTER LASSES ======
+ (long duple)
+   
+<code>
+   A1 1-2  M1 advance to W2 while both set
+      3-8  2H turn until M below W, W goes to her place, 
+           M1 LH turn M2 and return to place up middle
+   A2      W1 same but 2H turn to finish above M2, turn 
+           W2 LH half turn to return up outside
+   B1 1-2   1st corners change L (??R)  shoulder
+      3-4   2nd corners change R shoulder
+      5-8   no hands all dance to left to original places
+   B2 C1 cross and cast down, 1/2 fig 8 around 2s who move up
+         on bars 7-8</code>
+music+

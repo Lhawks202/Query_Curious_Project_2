@@ -1,0 +1,28 @@
+====== Excuse Me ======
+
+Walsh 1718 \\
+Christian 2001 \\
+Longways for as many as will\\
+Recording: {{ ::music:excuse_me-055-rsl05.mp3.zip |}}
+
+<code>
+   A1    8  First couple cross and cast below (second lead up).
+         8  Turn 1 1/2 by right (ending proper).
+   A2   16  Second couple the same.
+   B1    8  First man and second lady set to each other and turn single back to 
+            place
+   B2    8  First lady and second man the same.
+   C1    8  First couple cross and cast (second lead up).
+         8  1/2 figure-eight up, then cross right. (Ending proper, second place).
+   C2   16  First and second couples double figure-eight (begin with second
+            couple cast and first couple crossing up).</code>
+Video: https://www.youtube.com/watch?v=BzGJEmipFAg  TTO 2019 
+
+Different ending:
+<code>
+C1 1-8 Double figure eight, ones start by casting down and twos by crossing up.
+C2 1-2 Ones cast down into second place, while twos lead Up (progression).
+   3-4 Ones set.
+   5-8 Ones lead up through the twos and cast down, back to progressed places.</code>
+
+History: https://tunearch.org/wiki/Annotation:Excuse_Me

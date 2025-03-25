@@ -1,0 +1,15 @@
+SHROPSHIRE GALLOP (5 couples longways, 32 bar jig)
+   
+<code>
+   A1 1-4 slip circle 1/2 way to Lt
+      5-8 M1 and W5 cast to Lt and lead all into partner's place (skipping)
+   A2 1-4 All slip circle Rt 1/2 way
+      5-8  M1 and W5 cast to Rt and lead everyone home (skip)
+   B1 1-8  C1 with C2, C3 with C4 Rt H across once round and Lt H across back
+           while C5 cross, move up set and cross between stars, then
+           move up to top
+   B2 1-8  C5 gallop down centre followed by others (to to top first)
+           Then C5 gallop back up followed by C1 C2 and C3 making arches
+           over couples coming down
+           (note strange ordering of couples??)</code>
+

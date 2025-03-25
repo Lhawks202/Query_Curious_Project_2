@@ -1,0 +1,26 @@
+====== Salutation ======
+
+Duple Minor Proper -- Walsh apparently 1706\\
+This set of instructions developed from the video \\
+[[https://www.youtube.com/watch?v=VsgDwApm1gE]]\\
+Recording: {{ ::music:salutation-walshb15-04.mp3.zip |}}\\
+{{ ::music:salutation-a1-052_gmdm.mp3.zip |}}
+
+<code>
+
+A1    Men lead through women and back to place,
+      Men back to back
+      Men 2 hand turn
+      
+A2    Women lead through men and back to place,
+      Women back to back
+      Women 2 hand turn
+      
+B1    1st corners change, 2nd corners change (hole in the wall?)
+      Circle 4H half way, 1s cast and 2s lead
+
+B2    1s lead through NEXT 2s and cast back
+      Original minor set, 4 changes of R&L
+      
+</code>
+

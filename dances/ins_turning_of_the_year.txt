@@ -1,0 +1,23 @@
+====== Turning of the Year ======
+1998   duple minor, longways\\
+Dance by Mike Richardson\\
+Recording: {{ ::music:turning_of_the_year-065_bn8bc-11.mp3.zip |}}\\
+Video: https://www.youtube.com/watch?v=PgSnBqEhX_U\\
+Not well-executed, but only one I could find.
+   
+<code>
+Part  Bars  Description
+A      8    Double figure eight (1's start crossing down between the 2's).
+            2's end the figure by crossing down, but they maintain eye contact.
+       4    1's advance towards partner and retire 
+            WHILE 2's fall back then advance to partner.
+       4    Mirror gypsy with neighbor (1's start going down the center)
+B      4    Mirror allemande with neighbor (same path as the gypsy)
+       8    Ones, taking hand with partner and acting as a unit: Hey for "three" 
+            across the set (1's pass left shoulders with W 2 to start)
+       4    Mirror back-to-back with neighbor (1's in the center to start) 1+1/2 to 
+            progress to next couple.
+</code>
+Notes: Suggested music: "My Cape Breton Home" by Jerry Holland, played AB.\\
+Music and dance published in CDSS News #152 (Jan/Feb 2000).
+

@@ -1,0 +1,31 @@
+====== Laurelhurst ======
+
+(1996, Fried de Metz Herman)
+
+3-couple longways set, waltz time\\
+Recording: {{ ::music:laurelhurst-059_mobsn-05.mp3.zip |}}
+
+<code>
+A1   6  1st & 2nd men set forward to the standing 2nd & 3rd women on R diagonal.
+     6  1st & 2nd men turn single home into
+    12  Half-hey for the 3 men, starting 1st & 2nd men by R-shoulder
+A2   6  2nd & 3rd women set forward to the standing 3rd & 2nd men on R diagonal.
+     6  2nd & 3rd women turn single home into
+    12  Half-hey for the 3 women, starting 2nd & 3rd women by R-shoulder.
+B    6  1s (in bottom place) lead up the center.
+     6  1s set R & L to partner.
+     6  1s move up to top (above 3s).
+     6  1s cast down one place while 2s in middle cast down one place into  
+C   12  Hands-6 L halfway, starting R foot: 2 waltz steps, 2 single steps (1 step to the bar), into
+    12  Right & Left variant, thus:
+        3s (in bottom place): man hand partner by R across into middle place proper (keep facing
+        up) into L-hand turn w/ neighbor in line in 1st place
+        while 2s (in top place): cross by R-hand w/ partner & face down for L-hand turn w/
+        neighbor in line (2M will move straight into D)
+        while 1s (in middle place): cast down one place, then cross by L-hand w/ partner.
+D   12  2s (in top place) cross by R-hand & go below, middle couple moving up w/ 2 sidesteps
+        on last 6 beats.
+    12  2s (in middle place) cross by R-hand & go below, bottom couple moving up w/ 2
+        sidesteps on last 6 beats.</code>
+
+</code>

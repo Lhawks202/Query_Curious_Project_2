@@ -1,0 +1,23 @@
+====== Queen's Jig ======
+Playford in 1701. \\
+Adapted by Cecil Sharp in 1922\\
+Duple Minor Longways
+
+Recording: {{ ::music:queens_jig-068-bn12pb11.mp3.zip |}}\\
+{{ ::music:queen_s_jig--011.mp3.zip |}}\\
+{{ ::music:queens_jig-083_hfwdm1-05.mp3.zip |}}\\
+{{ ::music:queens_jig-fxfwo07.mp3.zip |}}\\
+{{ ::music:queens_jig-slow-b5-052_gmdm.mp3.zip |}}
+
+
+Video: https://www.youtube.com/watch?v=FANQtt1T_N8
+
+<code>
+   A1 1-8 1st corners side, then set and turn single. 
+   A2 1-8 2nd corners repeat A1. 
+   B1 1-2 1st corners change places. 
+      3-4 2nd corners change places. 
+      5-8 Partners face, balance back, and change places. 
+   B2 1-6 All right hands-across. 
+      7-8 All turn single.</code>
+

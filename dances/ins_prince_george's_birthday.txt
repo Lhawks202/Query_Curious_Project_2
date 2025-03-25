@@ -1,0 +1,46 @@
+====== Prince George's Birthday ======
+Playford, //The Dancing Master//, 1710--1728.\\
+John Walsh, //The Second Book of the Compleat Country Dancing Master//, 1719.\\
+Fried de Metz Herman, //The Road to Ruin//, 1990.\\
+3/2, G minor\\
+Recording: {{ ::music:prince_georges_birthday-063_bn6atb-04.mp3.zip |}}
+
+<code>
+proper duple-minor longways
+
+A1 1-2 Partners step right and honor.
+   3-4 Turn single.
+   5-8 First corners cross by the right, turn right around neighbor,
+       and return to place.
+A2 1-2 Partners step right and honor.
+   3-4 Turn single.
+   5-8 Second corners cross by the left, turn left around neighbor,
+       and return to place.
+B1 1   Neighbors clap: own, own, both.
+   2   Partners clap: own, both.
+   3-4 Cloverleaf turn single out away from neighbor (ones up, twos down).
+   5-8 Partners face for rights-and-lefts, four changes.
+B2 1   Ones short lead down.
+   2   Ones change hands and lead back.
+   3-4 Ones cast down one place while twos move up.
+   5-6 Ones lead down through next twos and cast up to progressed places.
+   7-8 Partners two-hand turn once around.
+</code>
+
+Prince George of Denmark was born on April 2, 1653.  On July 28, 1683, he married Anne, who reigned from March 8, 1702 to August 1, 1714.  Prince George's County, Maryland, was named after him in 1696.  According to some sources, Jeremiah Clarke wrote "The Prince of Denmark's March" around 1700 in his honor.  He died on October 28, 1708.
+
+<code>
+X:1
+T:Prince George's Birthday
+C:Playford
+O:1710-1728
+S:Peter Barnes, "English Country Dance Tunes, vol. 2", p100
+M:3/2
+L:1/4
+K:G minor
+Q:1/2=100
+%%MIDI gchord fcc
+"Gm"BGB/c/d"D"A/B/c|"Gm"c2G2d2|gd"Cm"e/d/c"Gm"d/c/B|"D"B3A/G/"Gm"G2|"Bb"dBd/e/f"F"c/d/e|
+"Bb"d2B2f2|"Eb"g/a/g"Bb"f/g/fed|"F"c4"Bb"B2:|]|:"Bb"dB2d"F"c2|"D(m)"cA2c"Gm"B2|BG2B"(Eb)"AG|
+"D"^F3GA2|"Gm"B/c/d"F"c/d/e"Bb"d2|"(Dm)"d/=e/f"C"e/f/g"D"^f2|"Gm"gdeg"Cm"ab|"D"g3^f"Gm"g2:|
+</code>

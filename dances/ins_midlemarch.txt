@@ -1,0 +1,23 @@
+====== Middlemarch ======
+ 
+Duple minor improper\\
+Orly L. Krasner, 2001
+
+<code>
+A1 1-4  Men left-hand turn once around. 
+   5-8  Men cross the set, going counter clockwise behind partner to trade places. 
+A2 1-4  Women right-hand turn once around. 
+   5-8  Women cross the set, going clockwise behind opposite to trade places. 
+          All progressed but crossed over. 
+B1 1-4  Partners straight poussette clockwise halfway (women go forward to start). 
+   5-8  Neighbors gypsy right shoulder once around. All home but crossed over. 
+B2 1-4  Neighbors draw poussette clockwise halfway around the circle to progressed 
+        places (women go forward). 
+   5-8  Partners gypsy right shoulder once around.
+</code>
+
+Recording: {{ ::music:middlemarch_-_jnc05.mp3.zip |}}\\
+Video: https://www.youtube.com/watch?v=RX-NYqHn1D8
+
+Named for the novel by George Eliot published in 1871-2, and widely considered 
+one of the finest works of fiction in the English language. 

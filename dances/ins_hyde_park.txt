@@ -1,0 +1,41 @@
+====== Hyde Park ======
+Source: Playford (1651), TPB, LoD v1 & v2.\\
+Setting: A square set of four couples.\\
+Version: 1.0
+
+Recording: {{ ::music:hyde_park-bnah5-09.mp3.zip |}}
+
+<code>
+A   1- 4  First and third couples forward and back a double,
+    5- 8  Second and fourth couples the same.
+    9-10  First and third men take partners with both hands, slip into
+            center to meet,
+   11-16  First man and third woman join both hands, slip out between
+            the fourth couple, and cast to place. Third man and first
+            woman do likewise at the same time.
+   17-24  Second and fourth couples repeat figure in 9-16.
+B   1- 8  Repeat bars 1-8 above.
+    9-10  Second and fourth couples take both hands with their partner,
+            turn halfway, and make an arch,
+   11-16  First and third couple face their partner, pass by the right
+            shoulder to go outside the set, around the arches, go under
+            the arches, and return to place, ending improper.
+   17-18  First and third couples take both hands with their partner,
+            turn halfway, and make an arch (these couples are now
+            proper again),
+   19-24  Second and fourth couples do figure in bars 11-16, ending
+            proper.
+C   1- 8  Repeat bars 1-8 above.
+    9-16  Men pass in front of their partners, behind the next woman,
+            and so on, weaving counter-clockwise around the the circle
+            back to place.
+   17-24  Women weave the circle clockwise, passing in front of their
+            partner to start.
+</code>
+
+Discussion:
+
+This dance is done in a square set; the couple closest to the head of the hall is the first couple, and the other couples are numbered clockwise from the first. Playford's instructions leave out the phrasing within the 8-bar phrases; the subdivisions abov
+
+The name in the original is ``**Hide-Park**,// which The Playford Ball notes was also the name of a play written by **Shirley** in 1637. Sharp modernized the name.
+ video  https://www.youtube.com/watch?v=wjHn1qviDkU

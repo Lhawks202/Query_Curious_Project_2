@@ -1,0 +1,19 @@
+====== Lucky Seven ======
+
+Recordings: {{ ::music:lucky_seven--005.mp3.zip |}}\\
+{{ ::music:lucky_seven-track11.cdda.mp3.zip |}}
+
+Video: https://www.youtube.com/watch?v=ZKc05B0Z97s
+
+
+Large circle mixer. Men have partner on the right.
+
+<code>
+Circle L
+Circle R
+Into the middle a double and back.
+That again
+Starting with partner, 6 hands R & L chain, 
+Swing 7th person (4th Right Hand)
+End in circle to start again.
+</code>

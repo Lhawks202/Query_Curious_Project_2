@@ -1,0 +1,68 @@
+====== The Shrewsbury Lasses ======
+As in "The Playford Ball"  Longways for 3 couples\\
+Peter Thompson, 1765\\
+Video: https://www.youtube.com/watch?v=Wpyl54cXFPk\\
+(This Swedish video chosen because it shows the geometry pattern of
+the dance, though the dancers are rather wooden and trying to dance
+on stone pavers that are slippery!)\\
+Recordings: {{ ::music:shrewsbury_lasses--009.mp3.zip |}}\\
+{{ :music:shrewsbury_lasses-bnah5-06.mp3.zip |}}\\
+{{ ::music:shrewsbury_lasses-054-engech-11.mp3.zip |}}\\
+{{ ::music:shrewsbury_lasses---010.mp3.zip |}}
+
+   
+<code>
+A1 1-4   1st man slow set and honor, right, then left, to 2nd woman. 
+   5-8   1st man turn 2nd woman two-hands.
+A2 1-8   1st woman the same to 2nd man.
+B1 1-2   1st couple cast down to middle place, 2nd couple moving up.
+   3-6   1st and 3rd couples circle four-hands once around.
+   7-10  1st man skip up outside and around top couple, 
+         to end in middle place improper whlle 1st woman skip 
+         down outside and around bottom couple, to end 
+         in middle place, improper. 
+   11-12 1st couple turn two-hands half-way.
+B2 1-2   3rd couple cast up to middle place, 1st couple moving down. 
+   3-6   3rd and 2nd couples {at top} circle four-hands once around.
+   7-10  3rd man skip up outside and around top couple, to end 
+         in middle place, improper whlle 3rd woman skip down outside 
+         and around bottom couple, to end in middle place, improper. 
+   11-12 3rd couple turn two-hands half-way.
+   Repeat dance twice more
+</code>
+   
+See an [[http://www.dancekaleidoscope.org.au/dance.html#ShrewsburyLasses|animation of this dance]].\\   
+From **John Garden**, who gives an AAB arrangement of the tune as the music for a triple minor.\\
+   
+====== Shrewsbury Lasses ======
+ to own tune  \\ 
+A triple minor longways dance \\
+Thompson, Twenty-four Country Dances 1765 and (text used)\\ 
+Thompson's Compleat Collection, vol.4, 1780.\\
+   
+<code>
+   A1 First Man set forward to the 2d Wo. ,
+      turn single back to place over r.sh. 
+      then come forward to take hs with corner 
+      and turn all the way round with 8 steps, starting r.f.)
+   A2 1st Wo. do the same with the 2d Man
+   B  With 12 steps 1s Cast off & hands round four with 3s at bottom. 
+      With 12 counts of skipping The Wo. go cw round the bottom Cu. 
+      the Man cw round the top Cu. ('orbits below and above') to meet 
+      improper in the middle and turn (partner with 2h 1/2 way) into 
+      your own Places in progressed position, 1M, by releasing his r.h. 
+      before his l.h. can open out easily to face new 2W or, when one 
+      place from end of set and needing to go to the bottom, the 1M&1W 
+      can let their 1/2 2h turn send them out behind and around the couple below them.
+</code>
+   
+This dance was possibly used by the P&P director for the dance between Mr Collins and Lizzy as it gives Mr Collins a very good opportunity to go wrong.... but recover. The Apted editors change the dance to a 3 couple dance, with an additional B music to repeat the "chase" and progress the couples.
+
+Notes:\\
+In the BBC series, Elizabeth danced with Mr Collins, and had to give him dance instructions.
+They performed a different version of the Al and A2 music.
+<code>
+Al 1-4 First man set forward right and left, to the second lady,
+       do not fall back, both step right & honor.
+   5-8 Two hand turn to places.
+A2 First lady repeat to second man.</code>

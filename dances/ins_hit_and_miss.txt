@@ -1,0 +1,28 @@
+====== Hit and Miss ======
+See "The Playford Ball"     Tune "Daphne"
+
+Two couples facing
+   
+<code>
+Part I
+AA 1-8 All forward a double and fall back a double. That again.
+B1 1-4 All forward again, men lead opposite women away from set.
+B2 1-2 Changing hands, men lead same women back.
+   3-4 Opposites face, take right hands with partner and fall 
+       back a double.
+C  1-6 Partners face and circular hey, four changes, beginning 
+       with partner, skipping.
+Part II
+AA     Partners side twice. 
+BB & C As in Part I.
+Part III
+AA     Partners arm right, then lett. 
+BB & C As in Part 1.
+</code>
+
+See an [[http://www.dancekaleidoscope.org.au/dance.html#HitAndMiss|animation of this dance]].
+
+Recordings: {{ ::music:hit_and_miss-068-bn12pb15.mp3.zip |}}\\
+{{ ::music:hit_and_miss--011--011.mp3.zip |}}\\
+{{ ::music:hit_and_miss--020.mp3.zip |}}\\
+{{ ::music:hit_and_miss-priprec13.mp3.zip |}}

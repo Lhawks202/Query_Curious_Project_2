@@ -1,0 +1,41 @@
+====== Dartford Camp ======
+
+Longways Country Dance, triple minor\\
+24 Country Dances for the Year 1781, by Thomas Skillern\\
+<code>
+Introduction
+Honour presence and partner (4 bars)
+
+A1 8 C1 cast to middle and circle left with C3
+A2 8 C1 cast up and circle right with the C2
+B1 8 All three couples promenade around the set
+B2 8 C1 lead down the middle and back, and cast off into 2nd place
+</code>
+
+When England felt the threat of an invasion by French and Spanish 
+forces in 1779-1780, they mobilized troops and camped them in the 
+south of England to be ready to repel invaders.
+
+On July 20th, 1780, some 5,000 soldiers decamped from Dartford Heath 
+and marched to Gravesend in a military exercise that tested the 
+transportation scheme. When the entire force was shiped from Gravesend 
+to Tilbury and back, it was declared a resounding success.
+
+Dartford Heath was home to some 8,000 soldiers at its peak. The presence 
+of the men was both boon and bane to the nearby communities, which certainly 
+made money from the encampments, but which also suffered numerous incidents. 
+Local belle Miss Ethelinda Margaretta Thorpe, later Mrs. Potts, was inspired to verse:
+
+
+
+From yonder Heath the lark no longer soars
+The grasshopper ceases while the cannon roars--
+Where sportive flocks one Whiten'd o'er the ground
+Now bleaching huts are fixed our view to bound;
+Where the furze phalanx could sweet herbage ward,
+From prowling herds--now mounts the Captain's guard,
+Or veterans wait till ovens here disgorge--
+Or Sutler scores,--and hereto glows the forge.
+
+Video: https://www.regencydances.org/index.php?wL=518\\
+Recording: {{ ::music:dartford_camp_i-09-khb-001.mp3.zip |}}

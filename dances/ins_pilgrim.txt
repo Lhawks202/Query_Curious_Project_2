@@ -1,0 +1,21 @@
+====== THE PILGRIM ======
+===== or LORD FOPPINGTON =====
+ (DM 1721) (duple)
+Henry Playford  in 1701 \\
+Interpreted by Bernard Bentley in 1965\\
+(1 p de b per bar) (6/8)
+<code>
+     
+A1 1-4  1st corners turn RH once round
+   5-8  C1 and C2 hands 4 half way and turn single
+A2      2nd corners repeat (all now in original places)
+B1 1-4  C1 half figure 8  round 2s
+   5-8  C2 half figure 8  round 1s (all now improper)
+B2 1-4  C1 lead down 2 steps, turn away from each other and face as
+        C2 moves up.
+   5-8 3 changes of circular hey starting with neighbour      
+</code>
+
+Video: https://www.youtube.com/watch?v=EgarD9btFYs\\
+Recording: {{ ::music:pilgrim_impromptu_-_track11.mp3.zip |}}\\
+History: https://tunearch.org/wiki/Annotation:Pilgrim_(1)_(The)
