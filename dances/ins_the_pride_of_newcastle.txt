@@ -1,6 +1,0 @@
-====== Pride of Newcastle ======
-
-??instructions
-
-Recording: {{ ::music:pride_of_newcastle---041.mp3.zip |}}\\
-{{ ::music:pride_of_newcastle_the--023.mp3.zip |}}

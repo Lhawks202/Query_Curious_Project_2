@@ -1,6 +1,0 @@
-====== The Dancing Dutch ======
-
-
-See [[private:ins_dancing_dutch|private]] section
-
-Recording: {{ ::music:dancing_dutch_the--023.mp3.zip |}}

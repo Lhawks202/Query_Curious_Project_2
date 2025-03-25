@@ -1,3 +1,0 @@
-====== Far Away ======
-
-Recording: {{ ::music:far_away_077-bof--16.mp3.zip |}}

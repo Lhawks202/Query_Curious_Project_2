@@ -1,5 +1,0 @@
-====== A Fine Balance ======
-
-Placed in [[private:ins_a_fine_balance|private]]
-
-Recording: {{ ::music:finebalance-rdht-5.mp3.zip |}}

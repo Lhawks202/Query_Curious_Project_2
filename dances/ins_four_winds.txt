@@ -1,5 +1,0 @@
-====== Four Winds ======
-
-http://www.patshaw.info/dances/#fourwinds
-
-Recording: {{ ::music:four_winds--023.mp3.zip |}}

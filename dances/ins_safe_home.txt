@@ -1,4 +1,0 @@
-====== Safe Home ======
-Video: https://www.youtube.com/watch?v=7AfcvSbP1NY\\
-Recording: {{ ::music:safehome-rdht-14.mp3.zip |}}\\
-Placed in [[private:ins_Safe_Home|private]]

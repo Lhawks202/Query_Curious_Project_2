@@ -1,4 +1,0 @@
-====== Belle of the Ball ======
-Loretta Holz\\
-Video: https://www.youtube.com/watch?v=g4l_Fvb5u9k\\
-Recording: {{ ::music:belle_of_the_ball-frdata-05.mp3.zip |}}

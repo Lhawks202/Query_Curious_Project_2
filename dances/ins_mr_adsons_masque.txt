@@ -1,3 +1,0 @@
-[[private:mr_adsons_masque|private:mr_adsons_masque]]
-
-Recording: {{ ::music:mr_adsons_masque_077-bof--7.mp3.zip |}}

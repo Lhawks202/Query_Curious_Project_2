@@ -1,7 +1,0 @@
-====== Terpsicourante ======
-
-Gary Roodman (New Friends)
-
-Instructions in [[private:pins_terpsicourante|private area]]
-
-Recording: {{ ::music:terpsicourante-_076-newfriend-12.mp3.zip |}}

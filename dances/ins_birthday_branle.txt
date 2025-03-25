@@ -1,3 +1,0 @@
-[[private:Birthday_branle|private:Birthday_branle]]
-
-Recording: {{ ::music:birthday_branle_077-bof--5.mp3.zip |}}
